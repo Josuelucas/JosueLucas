@@ -1,8 +1,12 @@
 ## Fala dev, me chamo Josué Lucas 🧑🏽‍💻
 
+<img align="center" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3c3cWFpemE0eHIwOGIzMTVzbGo4bDZiMnVlbGc2eW1rbnF4eWNtaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXwtfadqo7wbfmT46H/giphy.gif">  
+
+
 - 🌱 Atualmente estudando Java e JS ...
 - entusiasta por programaçao
 
+##
 
 <div>
   <a href="https://github.com/JosueLucas">
