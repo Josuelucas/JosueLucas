@@ -31,6 +31,9 @@
 - [Projeto Viagem ](https://github.com/Josuelucas/projeto-viagens)
 - [Página Receita](https://github.com/Josuelucas/paginareceita-rock)
 - [Simluddor de Arquivos](https://github.com//Josuelucas/SimuladorSistemaArquivos)
+- [Pokedex](https://github.com/Josuelucas/pokedex_aplicacao)
+- [GOJO](https://github.com/Josuelucas/GOJO) 
+
 
 
 ## 🔥 Skills
